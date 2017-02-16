@@ -1,0 +1,10 @@
+export const GET_TABLE_DATA_REQUEST_PATH = '/public/assets/json/data.json'
+export const GET_DETAILS_DATA_REQUEST_PATH = '/public/assets/json/details.json'
+
+export const GET_TABLE_DATA_REQUEST = 'GET_TABLE_DATA_REQUEST'
+export const GET_TABLE_DATA_SUCCESS = 'GET_TABLE_DATA_SUCCESS'
+
+export const GET_DETAILS_DATA_REQUEST = 'GET_DETAILS_DATA_REQUEST'
+export const GET_DETAILS_DATA_SUCCESS = 'GET_DETAILS_DATA_SUCCESS'
+
+export const SET_DETAILS_ROW = 'SET_DETAILS_ROW'
